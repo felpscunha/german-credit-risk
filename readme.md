@@ -6,7 +6,6 @@ Course: MLZoomcamp
 Institute: DataTalksClub
 ---
 This project seeks to evaluate the risk assessment of providing financial credit to German citizens based on a sample of 1000 users. Here, we sought to carry out an exploratory analysis of the data, as well as modeling for a binary prediction of the risk associated with credit in good or bad risk. The German Data can be obtained at https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data.
-The German Data can be obtained at [https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data](German Data).
 ---
 # Index
 - Objectives
